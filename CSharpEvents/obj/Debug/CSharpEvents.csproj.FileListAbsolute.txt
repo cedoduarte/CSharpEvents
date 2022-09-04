@@ -1,0 +1,10 @@
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\bin\Debug\CSharpEvents.exe.config
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\bin\Debug\CSharpEvents.exe
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\bin\Debug\CSharpEvents.pdb
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.Form1.resources
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.Properties.Resources.resources
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.exe
+C:\Users\carlo\Documents\SoftwareProjects\VisualStudioProjects\CSharpEvents\CSharpEvents\obj\Debug\CSharpEvents.pdb
